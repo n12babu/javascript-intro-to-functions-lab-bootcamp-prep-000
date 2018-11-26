@@ -3,7 +3,7 @@ const shout=(string)=>{
  };
 
 const whisper = (string)=>{
-  return string.toLowercase()
+  return string.toLowerCase()
 }
 
 const logWhisper= (string)=>{
