@@ -1,5 +1,5 @@
 const shout =(string)=>{
-   return string.toUppercase()
+   return (string.toUppercase())
  };
 
 const whisper = (string)=>{
